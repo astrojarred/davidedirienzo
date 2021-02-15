@@ -1,2 +1,2 @@
 # davidedirienzo
-Homepage for Davide di Rienzo
+Homepage for Davide Di Rienzo
