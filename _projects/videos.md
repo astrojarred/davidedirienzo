@@ -2,12 +2,17 @@
 title: 'Videos'
 subtitle: 'Performances'
 date: 2020-01-01 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/videos_image.jpeg'
 ---
 
-### What about videos?
+### "Sonetto 104 del Petrarca" (Petrarch Sonnet 104), F. Liszt
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+<iframe src="https://www.youtube.com/watch?v=XQejd3uwAXg" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/19536258?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+### "Notturno", O. Respighi
+
+<iframe src="https://www.youtube.com/watch?v=ComciO7EKWQ" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### "Après une lecture du Dante", F. Liszt (Dante Sonata)
+
+<iframe src="https://www.youtube.com/watch?v=zuHepcrGGIQ" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
