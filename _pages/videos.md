@@ -1,9 +1,9 @@
 ---
 title: 'Videos'
 subtitle: 'Performances'
-date: 2021-01-01 00:00:00
+date: 2020-01-01 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/bio_image.jpeg'
+featured_image: '/images/videos_image.jpeg'
 ---
 
 ### What about videos?
