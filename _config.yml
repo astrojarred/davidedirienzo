@@ -1,17 +1,17 @@
-site: Index Jekyll Theme
+site: Davide Di Rienzo
 
-url: https://index.jekyllthemes.io
-baseurl: 
+url: https://davidedirienzo.com
+baseurl: davidedirienzo.com
 
 collections:
   pages:
     output: true
     permalink: /:name
   posts:
-    output: true
+    output: false
     permalink: /blog/:slug
   projects:
-    output: true
+    output: false
     permalink: /project/:slug
 
 defaults:
@@ -44,7 +44,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
 sass:
   style: compressed
 
@@ -54,4 +54,3 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-  
