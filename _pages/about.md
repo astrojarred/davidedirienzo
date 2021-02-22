@@ -5,6 +5,8 @@ title: About Davide
 # featured_image: /images/demo/demo-landscape.jpg
 ---
 
+[English](##🇺🇸) [Italiano](##🇮🇹)
+
 ## 🇺🇸
 
 Davide Di Rienzo was born in Brescia, Italy, in 1997. He begins piano studies at the age of 12. In 2011 he is admitted to the Liceo Musicale A. Manzoni in Latina, Italy.
