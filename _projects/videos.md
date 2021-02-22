@@ -7,11 +7,11 @@ featured_image: '/images/videos_image.jpeg'
 
 ### "Sonetto 104 del Petrarca" (Petrarch Sonnet 104), F. Liszt
 
-<iframe src="https://www.youtube.com/watch?v=XQejd3uwAXg" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XQejd3uwAXg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### "Notturno", O. Respighi
 
-<iframe src="https://www.youtube.com/watch?v=ComciO7EKWQ" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ComciO7EKWQ" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### "Après une lecture du Dante", F. Liszt (Dante Sonata)
 
