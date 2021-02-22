@@ -2,6 +2,7 @@
 title: 'Gallery'
 subtitle: 'Davide's performances
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+date: 2021-01-01 00:00:00
 featured_image: '/images/bio_image.jpeg'
 ---
 
