@@ -1,7 +1,5 @@
 basic_settings:
-  site_title: >
-    Davide 
-    Di Rienzo
+  site_title: Davide Di Rienzo
   site_tagline: Pianist and Instructor
   favicon_image: /images/favicon.ico
 
