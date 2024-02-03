@@ -8,26 +8,26 @@ featured_image: /images/repertoire_image.jpeg
 
 ## Solo repertoire
 
-- Scarlatti: Sonatas K.11, K.366
-- Bach: Partita no. 2; English Suite no.2; Prelude and Fugue no. 2, 6, 16 from WTC Book 1
+- Scarlatti: Sonatas K. 11, K. 366
+- Bach: Partita no. 2; English Suite no. 2; Prelude and Fugue no. 2, 6, 16 from WTC Book 1
 - Mozart: Sonata K309 and Sonata K310
 - Beethoven: Piano Sonatas:
-  - no. 1, 2, 3 op.2;
+  - no. 1, 2, 3 op. 2;
   - op. 13 no. 8;
   - op. 26 no. 12;
   - op. 81a no. 26;
   - op. 109
-- Chopin: Scherzo No. 2, Nocturnes op. 49; Polonaise op. 26 no. 2, Ballades no.1 and 4, Etudes op. 10 no. 6, 9, 12, Op. 25 no. 10, 12; Piano Sonata op.35
-- Liszt: Concert Paraphrase on Rigoletto, Reminescences de Simon Boccanegra, Verdi’s Aida: Danza Sacra e Duetto Finale, Santo Spirito Cavaliere from Wagner’s Rienzi, Liebestraum no.3; Transcendental Etude no. 8 (Wild Hunt), Second Year of Pilgrimage “Italie”:
+- Chopin: Scherzo No. 2, Nocturnes op. 49; Polonaise op. 26 no. 2, Ballades no. 1 and 4, Etudes op. 10 no. 6, 9, 12, Op. 25 no. 10, 12; Piano Sonata op. 35
+- Liszt: Concert Paraphrase on Rigoletto, Reminescences de Simon Boccanegra, Verdi’s Aida: Danza Sacra e Duetto Finale, Santo Spirito Cavaliere from Wagner’s Rienzi, Liebestraum no. 3; Transcendental Etude no. 8 (Wild Hunt), Second Year of Pilgrimage “Italie”:
   - Sposalizio,
   - Penseroso,
   - Tre sonetti del Petrarca,
   - Dante Sonata
-- Robert Schumann: Symphonic Etudes op.13
+- Robert Schumann: Symphonic Etudes op. 13
 - Clara Schumann: Nocturne
-- Amy Beach: Nocturne Op.107
+- Amy Beach: Nocturne Op. 107
 - Debussy: Voiles, Danseuses de Delphes.
-- Fauré: Nocturne op. 33 no.1
+- Fauré: Nocturne op. 33 no. 1
 - Berio: Six Encores for Piano
 - Shostakovich: Prelude and Fugue op. 87 no. 6
 - Aldo Bressan: Preludio, Canzone
@@ -45,9 +45,9 @@ featured_image: /images/repertoire_image.jpeg
 
 ## Chamber repertoire
 
-- Schubert: Piano Trio in B Flat, D.898
+- Schubert: Piano Trio in B Flat, D. 898
 - Beethoven: Violin Sonata no.7, op. 30 no. 2
-- Brahms: Piano Trio no.1 in B, op.8
+- Brahms: Piano Trio no.1 in B, op. 8
 - Chaminade: Concertino for Flute and Piano
 - Poulenc: Sonata for Flute and Piano
 - Gaubert: Fantaisie for Flute and Piano
