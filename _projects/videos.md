@@ -11,7 +11,7 @@ featured_image: '/images/videos_image.jpeg'
 
 ### "Sonata op. 109", L. V. Beethoven
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/ComciO7EKWQ](https://youtu.be/IvYd3Ap1vIo?si=2xdGRs6xTOJU21Vj)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IvYd3Ap1vIo?si=_X0VutU6lSyfNeee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### "Notturno", O. Respighi
 
@@ -19,7 +19,7 @@ featured_image: '/images/videos_image.jpeg'
 
 ### "Quaderno Musicale di Annalibera", L. Dallapiccola
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/ComciO7EKWQ](https://youtu.be/q1hGMGtlqdE?si=iNUeg7dKWSvcx2-H)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q1hGMGtlqdE?si=dpmJydn_s-1mxWDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### "Après une lecture du Dante", F. Liszt (Dante Sonata)
 
@@ -27,8 +27,8 @@ featured_image: '/images/videos_image.jpeg'
 
 ### "Sonata Op. 35", F. Chopin
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/ComciO7EKWQ](https://youtu.be/X146F44jMN4?si=LV9PXD5_LQUVvD-5)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X146F44jMN4?si=vLI3NcNlzasdErwW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### "Fantasy on Themes from Rienzi", Wagner/Liszt
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/ComciO7EKWQ](https://youtu.be/W9ZuvSEbmBw?si=YICWb-6L2K93uh2e)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W9ZuvSEbmBw?si=Q5pLVbZKwbOFPT7r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
