@@ -9,10 +9,26 @@ featured_image: '/images/videos_image.jpeg'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XQejd3uwAXg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### "Sonata op. 109", L. V. Beethoven
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ComciO7EKWQ" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### "Notturno", O. Respighi
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ComciO7EKWQ" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### "Quaderno Musicale di Annalibera", L. Dallapiccola
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ComciO7EKWQ" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### "Après une lecture du Dante", F. Liszt (Dante Sonata)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zuHepcrGGIQ" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### "Sonata Op. 35", F. Chopin
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ComciO7EKWQ" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### "Fantasy on Themes from Rienzi", Wagner/Liszt
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ComciO7EKWQ" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
